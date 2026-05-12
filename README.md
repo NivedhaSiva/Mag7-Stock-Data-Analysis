@@ -51,7 +51,8 @@ The dataset contains historical stock market data collected from **Yahoo Finance
 * Most Stable Stock: **Microsoft**
 * Highest Long-Term Return: **Nvidia (25,215%)**
 
-![Performance Overview](Dashboards/Home_Page.png)
+[![Performance Overview](images/pbi_market_overview.png)
+
 
 ---
 
