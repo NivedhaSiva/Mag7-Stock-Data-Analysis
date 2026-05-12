@@ -51,9 +51,6 @@ The dataset contains historical stock market data collected from **Yahoo Finance
 * Most Stable Stock: **Microsoft**
 * Highest Long-Term Return: **Nvidia (25,215%)**
 
-[![Performance Overview](images/pbi_market_overview.png)
-
-
 ---
 
 ### 🔹 Cumulative Return Analysis
@@ -72,7 +69,7 @@ The dataset contains historical stock market data collected from **Yahoo Finance
 * Amazon → **684.66%**
 * Meta → **559.45%**
 
-![Cumulative Return](Dashboards/Cumulative_Return.png)
+![Cumulative Return](images/pbi_market_insights.png)
 
 ---
 
@@ -83,8 +80,6 @@ The dataset contains historical stock market data collected from **Yahoo Finance
 * Tesla showed aggressive growth and significant price fluctuations.
 * Apple provided balanced growth with moderate risk.
 
-![Risk vs Return](Dashboards/Risk_Return.png)
-
 ---
 
 ### 🔹 Market Overview
@@ -94,7 +89,7 @@ The dataset contains historical stock market data collected from **Yahoo Finance
 * Trading volumes increased significantly during AI-driven market growth.
 * Nvidia and Tesla experienced the highest volatility spikes.
 
-![Market Overview](Dashboards/Market_Overview.png)
+![Market Overview](images/pbi_market_overview.png)
 
 ---
 
@@ -106,7 +101,7 @@ The dataset contains historical stock market data collected from **Yahoo Finance
 * Lower volatility compared to peers
 * Strong investor confidence
 
-![Apple Dashboard](Dashboards/Apple.png)
+![Apple Dashboard](images/Apple.png)
 
 ---
 
@@ -116,7 +111,7 @@ The dataset contains historical stock market data collected from **Yahoo Finance
 * Moderate volatility
 * Consistent upward trend
 
-![Amazon Dashboard](Dashboards/Amazon.png)
+![Amazon Dashboard](images/Amazon.png)
 
 ---
 
@@ -126,7 +121,7 @@ The dataset contains historical stock market data collected from **Yahoo Finance
 * Strong long-term returns
 * Balanced market behavior
 
-![Google Dashboard](Dashboards/Google.png)
+![Google Dashboard](images/Google.png)
 
 ---
 
@@ -136,7 +131,7 @@ The dataset contains historical stock market data collected from **Yahoo Finance
 * Strong rebound after market corrections
 * Growth driven by digital advertising and AI
 
-![Meta Dashboard](Dashboards/Meta.png)
+![Meta Dashboard](images/Meta.png)
 
 ---
 
@@ -146,7 +141,7 @@ The dataset contains historical stock market data collected from **Yahoo Finance
 * Strong consistent growth
 * Lower overall risk
 
-![Microsoft Dashboard](Dashboards/Microsoft.png)
+![Microsoft Dashboard](images/Microsoft.png)
 
 ---
 
@@ -156,7 +151,7 @@ The dataset contains historical stock market data collected from **Yahoo Finance
 * Massive AI-driven market growth
 * Highest cumulative returns
 
-![Nvidia Dashboard](Dashboards/Nvidia.png)
+![Nvidia Dashboard](images/Nvidia.png)
 
 ---
 
@@ -166,7 +161,7 @@ The dataset contains historical stock market data collected from **Yahoo Finance
 * Strong long-term return potential
 * Aggressive market behavior
 
-![Tesla Dashboard](Dashboards/Tesla.png)
+![Tesla Dashboard](images/Tesla.png)
 
 ---
 
